@@ -1,0 +1,17 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #000; 
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+#gameCanv {
+    border: 3px solid #fff; 
+    background-color: #222; 
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}
